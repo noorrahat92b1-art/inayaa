@@ -1,0 +1,103 @@
+{
+  "her_name": "Inayaa",
+  "welcome": {
+    "line1": "A little surprise made with all my love...",
+    "line2": "just for you, Inayaa",
+    "button": "Open My Heart"
+  },
+  "gallery_captions": [
+    "My Favorite Smile",
+    "My Happiness",
+    "My Safe Place",
+    "My Beautiful Girl",
+    "Forever My Inayaa",
+    "My Sunshine",
+    "My Peace of Mind",
+    "My Best Friend",
+    "My Whole Heart",
+    "My Favorite Person",
+    "My Home",
+    "My Comfort",
+    "My Everything",
+    "My Forever",
+    "Simply You"
+  ],
+  "love_letter": {
+    "salutation": "Dear Inayaa,",
+    "paragraphs": [
+      "Every photo of you makes my day brighter.",
+      "Every smile of yours is my favorite view.",
+      "Every moment with you becomes one of my happiest memories.",
+      "No matter where life takes us, you'll always have a special place in my heart.",
+      "I love you more than words can ever explain."
+    ],
+    "signoff": "❤️"
+  },
+  "questions": {
+    "love_meter": {
+      "prompt": "How much do you think I love you?",
+      "options": [
+        { "label": "1%", "value": 1, "response": "Hehe... try again 😝" },
+        { "label": "10%", "value": 10, "response": "You're getting closer ❤️" },
+        { "label": "50%", "value": 50, "response": "Still impossible to measure 😊" },
+        { "label": "100%", "value": 100, "response": "Almost..." },
+        { "label": "Infinity ♾️", "value": -1, "response": "Exactly! My love for you has no limits, Inayaa ❤️" }
+      ]
+    },
+    "do_you_love_me": {
+      "prompt": "Do you love me?",
+      "options": [
+        { "label": "Yes", "response": "I knew you would say that 🥹❤️" },
+        { "label": "Of Course", "response": "I knew you would say that 🥹❤️" }
+      ]
+    },
+    "cutest": {
+      "prompt": "Who is the cutest?",
+      "options": [
+        { "label": "Me", "response": "Wrong 😂" },
+        { "label": "Inayaa ❤️", "response": "Correct. My beautiful girl ❤️" }
+      ]
+    },
+    "forever": {
+      "prompt": "Can we stay together forever?",
+      "options": [
+        { "label": "Yes ❤️" },
+        { "label": "Forever ❤️" },
+        { "label": "Always ❤️" }
+      ],
+      "response": "Two hearts, one forever."
+    }
+  },
+  "timeline": [
+    { "title": "First Call ❤️", "date": "Add the date", "caption": "The moment your voice became my favorite sound.", "image": "/images/image1.jpg" },
+    { "title": "Favorite Selfie ❤️", "date": "Add the date", "caption": "The picture I can't stop looking at.", "image": "/images/image4.jpg" },
+    { "title": "Best Memory ❤️", "date": "Add the date", "caption": "A day I'll replay in my mind forever.", "image": "/images/image7.jpg" },
+    { "title": "Our Special Day ❤️", "date": "Add the date", "caption": "The day that changed everything for me.", "image": "/images/image10.jpg" }
+  ],
+  "reasons": [
+    "Your smile",
+    "Your laugh",
+    "Your eyes",
+    "Your kindness",
+    "Your cute little expressions",
+    "Your voice",
+    "The way you make me smile",
+    "Everything about you"
+  ],
+  "final_surprise": {
+    "lines": [
+      "No matter what happens...",
+      "I'll always choose you, Inayaa.",
+      "Thank you for being the most beautiful part of my life. ❤️"
+    ],
+    "image": "/images/image14.jpg",
+    "replay_button": "Replay Our Love Story"
+  },
+  "floating_messages": [
+    "💖 You look beautiful today, Inayaa.",
+    "🌸 You're my favorite notification.",
+    "🥹 I hope this little surprise made you smile.",
+    "❤️ No matter the distance, you're always close to my heart.",
+    "✨ If I had one wish, I'd choose you every time."
+  ]
+}
